@@ -24,6 +24,7 @@ In this project 	computer vision and machine learning techniques were used to pe
 	The detected objects are filtered to only consider the person class.
 
 	Bounding boxes are drawn around the detected persons, and the count of the number of people is displayed on the frame.
+
 ![Bayan Robot](images/personcounter.jpg)
 
 
