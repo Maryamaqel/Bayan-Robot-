@@ -12,6 +12,7 @@ In this project 	computer vision and machine learning techniques were used to pe
 	The distances between these landmarks are calculated to determine if a wave gesture is detected.
 
 	If the distances fall below a certain threshold and are sustained for a certain number of frames, a wave gesture is recognized, and a message is printed.
+
 ![Bayan Robot](images/handdemo.jpg)
 
 
